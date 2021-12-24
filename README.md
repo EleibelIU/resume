@@ -1,4 +1,3 @@
 # resume
-
-Hi this is my resume.
+My Resume in LATEX
 
